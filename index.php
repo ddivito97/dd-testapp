@@ -2,3 +2,6 @@
    ~Hello World~
 </h1>
 
+<h2>
+   Practice with committing code
+</h2>
